@@ -1,0 +1,15 @@
+{
+      "skills": [
+        "Writing Bash commands and simple scripts",
+        "Working with GitHub and Git",
+	"Understanding the most popular test design techniques",
+        "Understanding client-server architectire",
+        "API testing with Postman",
+	"Writing test documentation",
+	"Web and mobile testing with devtools",
+	"iOS/Android traffic monitoring with Charles and Fiddler",
+	"SQL basics",
+	"JMeter load testing basics",
+	"Developing simple mobile apps with Xcode/Android Studio"
+      ]
+}
