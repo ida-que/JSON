@@ -1,8 +1,8 @@
 {
 
-	"full name": "Ida Que",
+	"fullName": "Ida Que",
 	"age": 25,
-	"number of pets": 0,
-	"future desired salary": 10.000
+	"numberOfPets": 0,
+	"futureDesiredSalary": 10.000
 
 }
