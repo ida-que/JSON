@@ -7,23 +7,23 @@ _Note: To work with GIT repos, I used some of these necessary tools:_
 - _folders for keeping local repos (I used `mkdir` Bash command to create those in terminal)_
 
 ### Contents
-1. Create a remote repository called _JSON_.
-2. Clone the JSON repository to the local computer.
-3. Create a _new.json_ file inside the local JSON.
-4. Add the file to Git.
-5. Commit the file.
-6. Send the file to a remote GitHub repository.
-7. Edit the content of the file _new.json_ - write information about yourself (full name, age, number of pets, future desired salary). Write everything in JSON format.
-8. Send the changes to a remote repository.
-9. Create a _preferences.json_ file.
-10. In the _preferences.json_ file, add information about your preferences (favorite movie, favorite series, favorite food, favorite time of year, country you would like to visit) in JSON format.
-11. Create a _skills.json_ file, add information about skills that are going to be learned at the course in JSON format.
-12. Send two files at once to remote repository.
-13. Create the _bug_report.json_ file on the web interface.
-14. Save the changes at the web interface.
-15. At the web interface, modify the _bug_report.json_ file and add the bug report in JSON format.
-16. Save the changes at the web interface.
-17. Synchronize remote and local JSON repository.
+1. [Create a remote repository called _JSON_.](https://github.com/ida-que/JSON#1-create-a-remote-repository-called-json)
+2. [Clone the JSON repository to the local computer.](https://github.com/ida-que/JSON#2-clone-the-json-repository-to-the-local-computer)
+3. [Create a _new.json_ file inside the local JSON.](https://github.com/ida-que/JSON#3-create-a-newjson-file-inside-the-local-json)
+4. [Add the file to Git.](https://github.com/ida-que/JSON#4-add-the-file-to-git)
+5. [Commit the file.](https://github.com/ida-que/JSON#5-commit-the-file)
+6. [Send the file to a remote GitHub repository.](https://github.com/ida-que/JSON#6-send-the-file-to-a-remote-github-repository)
+7. [Edit the content of the file _new.json_ - write information about yourself (full name, age, number of pets, future desired salary). Write everything in JSON format.](https://github.com/ida-que/JSON#7-edit-the-content-of-the-file-newjson---write-information-about-yourself-full-name-age-number-of-pets-future-desired-salary-write-everything-in-json-format)
+8. [Send the changes to a remote repository.](https://github.com/ida-que/JSON#8-send-the-changes-to-a-remote-repository)
+9. [Create a _preferences.json_ file.](https://github.com/ida-que/JSON#9-create-a-preferencesjson-file)
+10. [In the _preferences.json_ file, add information about your preferences (favorite movie, favorite series, favorite food, favorite time of year, country you would like to visit) in JSON format.](https://github.com/ida-que/JSON#10-in-the-preferencesjson-file-add-information-about-your-preferences-favorite-movie-favorite-series-favorite-food-favorite-season-country-you-would-like-to-visit-in-json-format)
+11. [Create a _skills.json_ file, add information about skills that are going to be learned at the course in JSON format.](https://github.com/ida-que/JSON#11-create-a-skillsjson-file-add-information-about-skills-that-are-going-to-be-learned-at-the-course-in-json-format)
+12. [Send two files at once to remote repository.](https://github.com/ida-que/JSON#12-send-two-files-at-once-to-the-remote-repository)
+13. [Create the _bug_report.json_ file on the web interface.](https://github.com/ida-que/JSON#13-create-the-bug_reportjson-file-at-the-web-interface)
+14. [Save the changes at the web interface.](https://github.com/ida-que/JSON#14-save-the-changes-at-the-web-interface)
+15. [At the web interface, modify the _bug_report.json_ file and add the bug report in JSON format.](https://github.com/ida-que/JSON#15-at-the-web-interface-modify-the-bug_reportjson-file-and-add-the-bug-report-in-json-format)
+16. [Save the changes at the web interface.](https://github.com/ida-que/JSON#16-save-the-changes-at-the-web-interface)
+17. [Synchronize remote and local JSON repository.](https://github.com/ida-que/JSON#17-synchronize-remote-and-local-json-repository)
 
 ## STEPS
 #### 1. Create a remote repository called _JSON_.
@@ -245,7 +245,7 @@ Then, just send this commit, and we're done :smile:
 #### 15. At the web interface, modify the _bug_report.json_ file and add the bug report in JSON format.
 What if I see that I provided an incorrect ID for this bug report and want to set it as an integer? We can go to the file at GitHub and modify by opening the file and clicking on pencil icon :pencil::
 ```json lines
-"id": 171,            # changed id 170 to 171 and converted this value to integer
+"id": 171,
 ```
 #### 16. Save the changes at the web interface.
 Here, we do similar to the step 14. Commit message is also proposed: _"Update bug_report.json"_, I changed it to _"Update bug report ID in bug_report.json"_
